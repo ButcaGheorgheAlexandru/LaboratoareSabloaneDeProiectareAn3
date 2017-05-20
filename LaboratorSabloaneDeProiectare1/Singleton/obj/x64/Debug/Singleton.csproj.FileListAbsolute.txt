@@ -1,0 +1,5 @@
+E:\raluca\Facultate\VisualProjects\DesignPatterns\Singleton\bin\x64\Debug\Singleton.exe.config
+E:\raluca\Facultate\VisualProjects\DesignPatterns\Singleton\bin\x64\Debug\Singleton.exe
+E:\raluca\Facultate\VisualProjects\DesignPatterns\Singleton\bin\x64\Debug\Singleton.pdb
+E:\raluca\Facultate\VisualProjects\DesignPatterns\Singleton\obj\x64\Debug\Singleton.exe
+E:\raluca\Facultate\VisualProjects\DesignPatterns\Singleton\obj\x64\Debug\Singleton.pdb

@@ -1,0 +1,11 @@
+D:\Facultate\ANIII\VisualProjects\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+D:\Facultate\ANIII\VisualProjects\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+D:\Facultate\ANIII\VisualProjects\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\Facultate\ANIII\VisualProjects\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+D:\Facultate\ANIII\VisualProjects\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\John\Desktop\Alexandru\LaboratoareSabloaneDeProiectareAn3\LaboratorSabloaneDeProiectare1\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\John\Desktop\Alexandru\LaboratoareSabloaneDeProiectareAn3\LaboratorSabloaneDeProiectare1\Singleton\obj\Debug\Singleton.exe
+C:\Users\John\Desktop\Alexandru\LaboratoareSabloaneDeProiectareAn3\LaboratorSabloaneDeProiectare1\Singleton\obj\Debug\Singleton.pdb
+C:\Users\John\Desktop\Alexandru\LaboratoareSabloaneDeProiectareAn3\LaboratorSabloaneDeProiectare1\Singleton\bin\Debug\Singleton.exe
+C:\Users\John\Desktop\Alexandru\LaboratoareSabloaneDeProiectareAn3\LaboratorSabloaneDeProiectare1\Singleton\bin\Debug\Singleton.pdb
+C:\Users\John\Desktop\Alexandru\LaboratoareSabloaneDeProiectareAn3\LaboratorSabloaneDeProiectare1\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
